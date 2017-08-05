@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
  import {Post} from './post';
- import {NgForm} from '@angular/common';
+ //import {NgForm} from '@angular/common';
 
 @Component({
   selector: 'my-app',
